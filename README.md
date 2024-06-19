@@ -16,3 +16,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Cerca de 300 anos antes dos eventos de Game of Thrones, acompanhamos uma saga que gira em torno da família Targaryen e seus dragões. Baseada no livro Fogo & Sangue de George R. R. Martin, A Casa do Dragão é um spin-off de Game of Thrones que narra a história de conquista de terras em Westeros, mais conhecida como a Dança dos Dragões. Situada mais de 200 anos antes dos eventos da série original, acompanhamos a guerra civil que acontece enquanto os meio-irmãos Aegon II (Tom Glynn-Carney) e Rhaenyra (Emma DArcy) almejam o trono após a morte do pai Viserys I (Paddy Considine). Rhaenyra é a filha mais velha, contudo, Aegon é o filho homem de um segundo casamento, o que acaba gerando uma crescente tensão entre dois clãs Targaryen sobre quem tem o verdadeiro direito ao trono. Como descrito em Game of Thrones, no tempo em que a família Targaryen dominava os 7 reinos, a casa era conhecida por seus imponentes dragões, que assim como a família, acabaram praticamente extintos após o conflito interno.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B]  A CASA DO DRAGÃO SÉRIE 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QWLX3NXVNJHWU66YF7B6WRGZPTNL6WJ7</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/26v2fLgnXk4AUR2U7GKCkemaTn5.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Por volta de 200 anos antes dos eventos de Game of Thrones, a dinastia Targaryen encontra-se no ápice absoluto de seu poder, com mais de 15 dragões. A maioria dos impérios reais e imaginários desmorona de tais alturas. O rei Viserys Targaryen rompe com um século de tradição ao nomear sua filha Rhaenyra como herdeira do Trono de Ferro. Mas quando Viserys acaba tendo um filho, os nobres e plebeus de Westeros ficam chocados quando Rhaenyra mantém seu status de herdeira, e sementes de divisão semeiam atrito em todo o reino.</info>
+</item>
